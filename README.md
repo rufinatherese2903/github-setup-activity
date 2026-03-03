@@ -1,6 +1,6 @@
 # GitHub Setup Activity
 
-Name: Deepika D  
+Name: Rufina Therese S 
 Department: AI & DS  
 Year: ___  
 
